@@ -1,7 +1,5 @@
 const arr = [1, 2, 3, 4, 5];
 
-const arr2 = new Array(1,2,3,4,5)
-
 const addr = ["Quang Nam", "Quang Binh", "Da Nang", "Quang Ngai"]
 
 const user = [["Bao", addr[0], 21], ["Tien", addr[1], 21], ["Khoa", addr[1], 21], ["Quan", addr[2], 21], ["Phong", addr[3], 21]]

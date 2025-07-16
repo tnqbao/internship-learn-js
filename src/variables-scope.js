@@ -20,4 +20,4 @@ functionScope();
 
 console.log(hoisted); // => undefined
 let hoisted = "This is hoisted";
-// console.log(hoisted); // Error: Cannot access 'hoistedLet' before init
+// console.log(hoisted); // Error: Cannot access 'hoisted' before init
